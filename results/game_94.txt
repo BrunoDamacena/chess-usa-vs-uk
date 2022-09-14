@@ -1,0 +1,11 @@
+[Event "USA is white, UK is Black"]
+[Site "https://github.com/BrunoDamacena/chess-usa-vs-uk"]
+[Date "2022.09.14"]
+[Round "94"]
+[White "USA (No Rooks)"]
+[Black "UK (No Queen)"]
+[Result "1-0"]
+[FEN "rnb1kbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBN1 w kq - 0 1"]
+[Variant "From Position"]
+
+1. Nc3 Nf6 2. e4 e5 3. f4 d6 4. Nf3 Be7 5. fxe5 dxe5 6. Nxe5 O-O 7. Qf3 Nbd7 8. Nxd7 Bxd7 9. d3 Rfe8 10. Be2 Bg4 11. Qf2 Bxe2 12. Kxe2 c5 13. Qf5 Bd6 14. g4 Rad8 15. g5 Nd7 16. h4 Be5 17. Be3 g6 18. Qf2 Bxc3 19. bxc3 b6 20. Qg3 Ne5 21. a4 Re6 22. Bd2 Rd7 23. Kd1 Nc6 24. Qf4 a6 25. c4 Rb7 26. Qf2 Nd4 27. Be3 Rd7 28. Kc1 Nc6 29. Qh2 a5 30. Bf4 Rde7 31. Bd2 Kf8 32. Bc3 Ne5 33. Qh3 Rc6 34. Qg3 Rce6 35. Qh3 Rc6 36. h5 Ke8 37. Qh2 Rce6 38. Qf2 Kd7 39. Qf4 Kc6 40. Kb1 Kb7 41. Kc1 Ka7 42. Kb1 Kb7 43. Ba1 Ka8 44. Kc1 Ka7 45. Kd2 Kb7 46. Bc3 Ka7 47. Bxe5 Rxe5 48. h6 R5e6 49. c3 Rc6 50. Ke3 Rd7 51. e5 Re7 52. Ke4 Rb7 53. Qc1 Rbc7 54. Ke3 Kb7 55. Qh1 Ka7 56. Qd5 Kb8 57. Qd8+ Rc8 58. Qd7 Re6 59. d4 cxd4+ 60. cxd4 Rc7 61. Qd8+ Rc8 62. Qd7 Rc7 63. Qd5 Rec6 64. Kd3 Re6 65. Qd8+ Rc8 66. Qd7 Rc7 67. Qb5 Kb7 68. c5 Rec6 69. Ke3 Re6 70. Kd2 Rec6 71. Ke3 Re6 72. Kd2 Rec6 73. Kd3 Re7 74. cxb6 Rxb6 75. Qxa5 Rc7 76. d5 Rb3+ 77. Kd4 Rd7 78. d6 Kb8 79. Qd5 Rbb7 80. a5 Rb1 81. Kc3 Ka7 82. Kc2 Rbb7 83. Qc5+ Ka6 84. Kc3 Rd8 85. Qc6+ Ka7 86. a6 Rbb8 87. d7 Rg8 88. Kc4 Rgd8 89. Kd5 Rh8 90. Qc4 Rhd8 91. Kd6 Rh8 92. Qxf7 Rb6+ 93. Ke7 Rb4 94. Qd5 Rbb8 95. e6 Kb6 96. Qd4+ Ka5 97. a7 Rbg8 98. Kd6 Rd8 99. e7 Rdg8 100. Kc5 Rc8+ 101. dxc8=R Rxc8+ 102. Kd6 Re8 103. Kd7 Ra8 104. e8=Q Rxa7+ 105. Qxa7+ Kb5 106. Qb7+ Kc4 107. Qee4+ Kc5 108. Qbb4# 1-0

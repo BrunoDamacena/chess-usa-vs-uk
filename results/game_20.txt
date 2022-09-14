@@ -1,0 +1,11 @@
+[Event "USA is white, UK is Black"]
+[Site "https://github.com/BrunoDamacena/chess-usa-vs-uk"]
+[Date "2022.09.14"]
+[Round "20"]
+[White "USA (No Rooks)"]
+[Black "UK (No Queen)"]
+[Result "1-0"]
+[FEN "rnb1kbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBN1 w kq - 0 1"]
+[Variant "From Position"]
+
+1. Nc3 Nf6 2. e4 d6 3. d4 e5 4. Nf3 exd4 5. Nb5 Na6 6. Nbxd4 Nc5 7. Nb5 Na6 8. Nc3 Nc5 9. Be3 Be7 10. Bxc5 dxc5 11. e5 Nd7 12. e6 fxe6 13. Ng5 Nf6 14. Bc4 Bd6 15. Nce4 Nxe4 16. Nxe4 O-O 17. Nxd6 Rd8 18. Bd3 cxd6 19. Qh5 h6 20. Qg6 Bd7 21. h4 Kf8 22. Qh7 Kf7 23. Qg6+ Kf8 24. f4 Be8 25. Qh7 Bh5 26. g4 Bxg4 27. Bg6 d5 28. h5 Rac8 29. Qh8+ Ke7 30. Qxg7+ Kd6 31. Qxh6 Rf8 32. a4 a5 33. Qg7 Rxf4 34. Qxb7 Rcf8 35. b3 Rf1+ 36. Kd2 d4 37. Kd3 Rd1+ 38. Kc4 Be2+ 39. Bd3 Bxd3+ 40. cxd3 Rc1+ 41. Kb5 Rc3 42. Qc6+ Ke5 43. Qc7+ Kf6 44. Qf4+ Ke7 45. Qc7+ Kf6 46. Kc6 Rg8 47. Kd6 Kg5 48. Qf7 Rb8 49. Ke5 Rc2 50. Qg6+ Kh4 51. h6 Rf2 52. Kd6 Rff8 53. Kxc5 e5 54. h7 Rfe8 55. Kc4 Rbc8+ 56. Kb5 Ra8 57. Kc5 e4 58. h8=B Rxh8 59. Qxe4+ Kg3 60. Qe1+ Kg2 61. Qe2+ Kg3 62. Kxd4 Rac8 63. Qe1+ Kg2 64. Qe2+ Kg1 65. Qe1+ Kg2 66. Qxa5 Kf3 67. Qd5+ Ke2 68. Qg2+ Kd1 69. Qb2 Rc2 70. Qa1+ Rc1 71. Qa3 Rd8+ 72. Ke5 Rxd3 73. a5 Kc2 74. Qc5+ Rc3 75. Qb5 Kb2 76. b4 Re1+ 77. Kd6 Rd1+ 78. Ke5 Re1+ 79. Kf4 Kb3 80. Qd5+ Rc4+ 81. Kg5 Ra1 82. Qd2 Rxb4 83. Qd5+ Kc2 84. Qc6+ Kd3 85. Qf3+ Kc2 86. Qf2+ Kb3 87. Qe3+ Kc2 88. Qe2+ Kb3 89. Qe3+ Kc2 90. Qe2+ Kb3 91. Qd3+ Kb2 92. Qd2+ Kb3 93. Qd5+ Kc3 94. Qf3+ Kc4 95. Qe4+ Kb3 96. Qe6+ Kc2 97. Qf5+ Kb3 98. Qe6+ Kc2 99. Qf5+ Kb3 100. Qe6+ Kc2 101. Qc6+ Kb3 102. Qf3+ Kc4 103. Qe4+ Kb3 104. Qe3+ Kc2 105. Qf2+ Kd3 106. Qf5+ Kc4 107. Qe6+ Kd3 108. Qh3+ Kc4 109. Qe6+ Kd3 110. Qf5+ Kc4 111. Qf4+ Kb3 112. Qe3+ Kc2 113. Qc5+ Kb3 114. Qd5+ Kc2 115. Qg2+ Kb3 116. Qh3+ Kc2 117. Qg2+ Kc3 118. Qg3+ Kc4 119. Qf4+ Kb3 120. Qg3+ Kc2 121. Qc7+ Kd3 122. Qd7+ Kc2 123. Qc8+ Kd3 124. Qh3+ Kc2 125. Qh2+ Kb3 126. Qg3+ Kc4 127. Qc7+ Kd3 128. Qd7+ Ke3 129. Qe6+ Kd3 130. Qd7+ Kc3 131. Qc7+ Kd2 132. Qd6+ Kc3 133. Qc5+ Kd3 134. Qxb4 Rxa5+ 135. Qxa5 Kc2 136. Qb4 Kd3 137. Kf4 Ke2 138. Qc4+ Ke1 139. Qc2 Kf1 140. Kf3 Ke1 141. Qe2# 1-0

@@ -1,0 +1,11 @@
+[Event "USA is black, UK is White"]
+[Site "https://github.com/BrunoDamacena/chess-usa-vs-uk"]
+[Date "2022.09.14"]
+[Round "188"]
+[White "UK (No Queen)"]
+[Black "USA (No Rooks)"]
+[Result "1-0"]
+[FEN "1nbqkbn1/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w KQ - 0 1"]
+[Variant "From Position"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 Nc6 4. Be2 g5 5. dxc5 g4 6. Nd4 e6 7. Nxc6 bxc6 8. Nc3 Bxc5 9. Bd2 d5 10. h3 g3 11. fxg3 Bd6 12. O-O-O Be5 13. g4 Qb6 14. Bf3 Nd7 15. g5 Ba6 16. Na4 Qb8 17. h4 Nb6 18. Nxb6 Qxb6 19. b3 c5 20. Kb1 c4 21. Bc1 Qc5 22. h5 cxb3 23. axb3 Qc3 24. Rd4 Bxd4 25. exd4 Qxd4 26. Re1 Kd7 27. Rd1 Qh4 28. c4 Bb7 29. cxd5 e5 30. Be2 Kd8 31. h6 a5 32. Bd3 Qb4 33. Bc2 a4 34. Bd2 Qb5 35. Bc3 e4 36. Rd4 Qf1+ 37. Rd1 Qb5 38. Rd4 e3 39. Rxa4 Bxd5 40. Kb2 Qe2 41. g4 Qg2 42. Kc1 Qf3 43. Bxh7 e2 44. Bd2 Qe3 45. Bxe3 e1=Q+ 46. Kb2 Qxe3 47. Bc2 Qe5+ 48. Kb1 Qc3 49. h7 Kc7 50. Rb4 Qe1+ 51. Ka2 Qe5 52. g6 fxg6 53. Bxg6 Kc6 54. Kb1 Kc5 55. Rf4 Qe1+ 56. Kb2 Qe5+ 57. Kb1 Qg7 58. Bc2 Bxb3 59. Bxb3 Qxh7+ 60. Rf5+ Kd4 61. Kb2 Qh2+ 62. Bc2 Ke3 63. g5 Qh8+ 64. Ka2 Kd2 65. Bb3 Qc8 66. Rf2+ Kd3 67. Kb1 Qb7 68. Rb2 Kd4 69. g6 Qh1+ 70. Ka2 Qa8+ 71. Kb1 Qh1+ 72. Ka2 Qa8+ 73. Kb1 Qe4+ 74. Bc2 Qh1+ 75. Ka2 Kc3 76. g7 Qg1 77. Bd1 Qxg7 78. Rc2+ Kd3 79. Kb1 Qg1 80. Kc1 Qe3+ 81. Kb1 Qe1 82. Kc1 Qa5 83. Kb1 Kd4 84. Rh2 Qe1 85. Kc1 Qc3+ 86. Kb1 Qe1 87. Kc1 Qe3+ 88. Kb2 Qe5 89. Re2 Qb5+ 90. Kc1 Qa5 91. Kb1 Qb6+ 92. Rb2 Qa5 93. Rc2 Ke3 94. Rh2 Qb4+ 95. Rb2 Qc4 96. Rh2 Qd3+ 97. Kc1 Qa3+ 98. Kb1 Qd3+ 99. Kc1 Qc3+ 100. Kb1 Qc4 101. Rb2 Qd3+ 102. Kc1 Qc4+ 103. Kb1 Qd3+ 104. Bc2 Qf1+ 105. Ka2 Qa6+ 106. Kb1 Qf1+ 107. Ka2 Kd4 108. Bb3 Qa6+ 109. Kb1 Qd3+ 110. Kc1 Qc3+ 111. Kb1 Qb4 112. Bd1 Qe1 113. Kc1 Qc3+ 114. Kb1 Qd3+ 115. Kc1 Qc3+ 116. Kb1 Qd3+ 117. Kc1 Qe3+ 118. Kb1 Qe4+ 119. Kc1 Qf4+ 120. Kb1 Qf1 121. Kc1 Qf4+ 122. Kb1 Qf1 123. Kc1 Kc5 124. Rc2+ Kd6 125. Rd2+ Ke6 126. Rb2 Kf6 127. Rd2 Kg5 128. Kc2 Kf5 129. Kb1 Ke5 130. Kc2 Qf2 131. Rxf2 Kd4 132. Re2 Kc4 133. Kd2 Kd4 134. Bb3 Kc5 135. Kc3 Kd6 136. Kd4 Kc6 137. Ba4+ Kd6 138. Kc4 Kc7 139. Kc5 Kb7 140. Re7+ Ka6 141. Bc6 Ka5 142. Ra7# 1-0
